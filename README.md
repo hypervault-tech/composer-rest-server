@@ -1,3 +1,11 @@
+# Hypervault's fork of `composer-rest-server`
+
+To install the Hypervault's version of `composer-rest-server`, ie `hypervault-rest-server`, simply run 
+
+```
+npm install -g ./
+```
+
 # Hyperledger Composer REST Server
 
 Set up the Composer REST Server with this command
