@@ -1,7 +1,7 @@
 {
   "name": "hypervault-rest-server",
-  "version": "0.0.1",
-  "description": "Hyperledger Composer REST server that uses the Hyperledger Composer LoopBack connector",
+  "version": "0.0.2",
+  "description": "Hypervault's fork of Hyperledger Composer REST server that uses the Hyperledger Composer LoopBack connector",
   "engines": {
     "node": ">=8",
     "npm": ">=5"
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hyperledger/composer.git"
+    "url": "https://github.com/lixiii/composer-rest-server"
   },
   "keywords": [
     "blockchain",
